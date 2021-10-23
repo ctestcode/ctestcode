@@ -6,6 +6,6 @@
 - Auto Test report is generated   
 - Support gcc compiler over Linux and windows    
 
-https://ctestcode.com/ctestcode_win10_en.zip  
-https://ctestcode.com/ctestcode_linux_x64_en.zip  
+https://ctestcode.cn/ctestcode_win10.zip  
+https://ctestcode.cn/ctestcode_linux_x64.zip  
 
